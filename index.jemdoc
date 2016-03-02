@@ -1,0 +1,18 @@
+# jemdoc: menu{MENU} {index.html}
+= Qiong Yang
+
+[img{200}{300} dist/1.jpg]
+
+Welcome to my homepage! I am an student in the [http://sist.shanghaitech.edu.cn/ School of Information Science and Technology]@ ShanghaiTech University. My mentor is [ligt@mail.sim.ac Guotong Li] from [http://www.microsate.com/en/ The Shanghai Engineering Center for Microsatellites]
+
+Previously,I received B.S.degree in communication engineering from Hangzhou DianZi University.
+
+== Research Interests
+
+My research centers on the design of satellite navigation system,including but not limited to 
+- Satellite Navigation
+- Wireless Communication
+
+== Contact
+Email:[yangqiong@shanghaitech.edu yangqiong@shanghaitech.edu.cn]
+

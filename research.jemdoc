@@ -1,0 +1,17 @@
+# jemdoc: menu{MENU} {research.html}
+= Research Overview
+
+In this page, I sort some references about my research interests.
+
+== Principle of Navigation
+
+
+- [dist/GPS原理与接收机设计.pdf GPS原理与接收机设计，谢钢]
+- [dist/GPS.pdf Understanding GPS:Principle and Applications,Elioot D.Kaplan,Christopher J. Hegarty,2006]
+
+
+== Papers of Navigation
+
+- [dist/123.pdf The Research of Ephemeris Fitting Algorithm Used On Autonomous Navigation Satellite,Jiachao Chang, Ling Shang, Guotong Li,CSNC,2013]
+- [dist/124.pdf Research on the Protocol Architecture of Global Navigation Satellite System based on 
+Inter-Satellite Links, Xianqing, Tao Zhong, CSNC, 2013]
